@@ -26,7 +26,7 @@ Au fil des semaines, j'ai constaté que ces problèmes diminuait de plus en plus
 Chaque semaine, je consultais des sites comme MAC4EVER, YouTube ou encore Frandroid afin de voir la date de sortie des nouvelles versions Bêta d'iOS 17 et de se renseigner sur les nouveautés, les améliorations et les correctifs de chaque version et ce jusqu'à même aujourd'hui. <br>
 
 ![18](Annexes/18.jpg)
-Il y a beaucoup de prévisions sur la prochaine version d'iOS qui sera iOS 18 comme le Background Image dans iMessage, Split View, Ferret (l'IA Open Source d’Apple) ou encore la compatibilité de cette mise à jour depuis l'iPhone 11.
+Il y a beaucoup de prévisions sur la prochaine version d'iOS qui sera iOS 18 comme le Background Image dans iMessage, Split View, Ferret (l'IA Open Source d’Apple) ou encore la compatibilité de cette mise à jour depuis l'iPhone 11. 
 
 ---
 
