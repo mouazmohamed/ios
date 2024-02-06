@@ -31,6 +31,6 @@ Il y a beaucoup de prévisions sur la prochaine version d'iOS qui sera iOS 18 co
 ---
 
 ## Articles et sites consultés
-![articles](Annexes/article.png)
+![articles](Annexes/logo.png)
 ![notion](Annexes/lg.png)<br>
 Vous pouvez consulter mon site Notion contenant les sites et articles principaux que j'ai consultés et qui m'ont servis principalement pour ma veille technologique : [Veille Technologique - Mouaz MOHAMED](https://www.bit.ly/mouaz-ios "Consulter ma veille technologique")
